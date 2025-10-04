@@ -1,0 +1,121 @@
+ID,Client,Email,Service,Start Date,Start Time,End Date,End Time,Assigned To,Status,ResponseTimeMin,Location,Notes
+1,Olivia Smith,olivia.smith@example.com,Transcript Request,2025-11-25,11:00:00,2025-11-25,11:45:00,T. Perez,Pending,0,Office 204,Awaiting client reply
+2,Emma Williams,emma.williams@example.com,Registration Help,2025-09-04,14:15:00,2025-09-04,15:00:00,S. Brown,Completed,76,Main Desk,
+3,Liam Smith,liam.smith@example.com,Registration Help,2025-11-10,12:45:00,2025-11-10,13:30:00,T. Perez,Completed,3,Office 204,
+4,Jackson Clark,jackson.clark@example.com,Advising,2025-11-10,13:15:00,2025-11-10,14:15:00,S. Brown,Completed,77,Office 204,
+5,Aria Moore,aria.moore@example.com,Lab Access,2025-10-11,13:00:00,2025-10-11,14:00:00,K. Lee,Completed,60,Phone,
+6,Isabella Smith,isabella.smith@example.com,IT Setup,2025-09-25,10:45:00,2025-09-25,11:45:00,L. Carter,Scheduled,0,Main Desk,Pending confirmation
+7,Isabella Jones,isabella.jones@example.com,Lab Access,2025-08-17,12:30:00,2025-08-17,13:45:00,M. Johnson,Completed,19,Zoom,
+8,Noah Hernandez,noah.hernandez@example.com,Registration Help,2025-08-18,16:45:00,2025-08-18,18:15:00,M. Johnson,Pending,0,Office 101,Awaiting client reply
+9,James Martinez,james.martinez@example.com,Advising,2025-08-23,12:15:00,2025-08-23,13:15:00,L. Carter,Completed,61,Main Desk,
+10,Aria Williams,aria.williams@example.com,Room Booking,2025-10-24,15:30:00,2025-10-24,16:15:00,Daijahnah White,No-Show,0,Phone,"No response, follow-up needed"
+11,Mia Clark,mia.clark@example.com,Financial Aid Help,2025-09-19,09:45:00,2025-09-19,10:45:00,S. Brown,Completed,7,Office 204,
+12,Noah Johnson,noah.johnson@example.com,Lab Access,2025-10-07,11:15:00,2025-10-07,12:30:00,M. Johnson,Cancelled,0,Zoom,Cancelled by client
+13,Olivia Hernandez,olivia.hernandez@example.com,Transcript Request,2025-11-12,09:15:00,2025-11-12,10:45:00,K. Lee,Cancelled,0,Lab 3,Scheduling conflict
+14,Sophia Thomas,sophia.thomas@example.com,Financial Aid Help,2025-11-17,15:15:00,2025-11-17,16:15:00,T. Perez,Completed,41,Lab 3,
+15,Isabella Brown,isabella.brown@example.com,IT Setup,2025-11-07,09:30:00,2025-11-07,10:45:00,S. Brown,Scheduled,0,Lab 3,Confirmed via email
+16,Sophia Martin,sophia.martin@example.com,Room Booking,2025-11-11,16:00:00,2025-11-11,17:15:00,M. Johnson,Completed,72,Lab 3,
+17,Aria Davis,aria.davis@example.com,Financial Aid Help,2025-08-23,15:00:00,2025-08-23,16:00:00,Daijahnah White,Completed,64,Office 204,
+18,Liam Anderson,liam.anderson@example.com,Room Booking,2025-08-25,10:00:00,2025-08-25,10:45:00,M. Johnson,Pending,0,Zoom,Awaiting client reply
+19,Mason White,mason.white@example.com,Financial Aid Help,2025-08-19,14:15:00,2025-08-19,14:35:00,T. Perez,No-Show,0,Lab 3,"No response, follow-up needed"
+20,Ella Hernandez,ella.hernandez@example.com,Event Support,2025-10-26,15:45:00,2025-10-26,16:15:00,T. Perez,Completed,24,Office 101,
+21,Emma Davis,emma.davis@example.com,Transcript Request,2025-10-15,15:00:00,2025-10-15,15:45:00,L. Carter,Scheduled,0,Phone,Pending confirmation
+22,Charlotte Hernandez,charlotte.hernandez@example.com,Financial Aid Help,2025-11-08,10:00:00,2025-11-08,10:45:00,T. Perez,Completed,79,Office 204,
+23,Jackson Lee,jackson.lee@example.com,Registration Help,2025-08-17,08:00:00,2025-08-17,08:30:00,Daijahnah White,Completed,15,Zoom,
+24,Emma Garcia,emma.garcia@example.com,Room Booking,2025-11-25,16:30:00,2025-11-25,17:00:00,S. Brown,Completed,78,Zoom,
+25,Harper Hernandez,harper.hernandez@example.com,Event Support,2025-10-04,14:00:00,2025-10-04,15:00:00,S. Brown,Scheduled,0,Office 101,Confirmed via email
+26,Olivia Thompson,olivia.thompson@example.com,Transcript Request,2025-08-18,12:30:00,2025-08-18,13:45:00,L. Carter,Scheduled,0,Office 101,Confirmed via email
+27,Mia Moore,mia.moore@example.com,IT Setup,2025-09-12,11:00:00,2025-09-12,11:45:00,K. Lee,Scheduled,0,Zoom,Pending confirmation
+28,Jackson Garcia,jackson.garcia@example.com,Registration Help,2025-09-11,09:15:00,2025-09-11,10:30:00,L. Carter,Completed,7,Office 101,
+29,Jackson Clark,jackson.clark@example.com,Lab Access,2025-09-11,11:15:00,2025-09-11,12:45:00,T. Perez,Scheduled,0,Office 101,Confirmed via email
+30,Aria Perez,aria.perez@example.com,Advising,2025-11-14,16:30:00,2025-11-14,18:00:00,S. Brown,Completed,28,Office 101,
+31,Ella Smith,ella.smith@example.com,Registration Help,2025-10-15,16:45:00,2025-10-15,18:00:00,M. Johnson,No-Show,0,Office 101,"No response, follow-up needed"
+32,Ethan Johnson,ethan.johnson@example.com,Lab Access,2025-11-25,13:45:00,2025-11-25,14:30:00,S. Brown,Completed,38,Zoom,
+33,Noah Lee,noah.lee@example.com,Registration Help,2025-11-19,10:15:00,2025-11-19,11:15:00,S. Brown,Completed,60,Office 204,
+34,Emma Lee,emma.lee@example.com,IT Setup,2025-09-15,15:00:00,2025-09-15,16:00:00,M. Johnson,Completed,59,Phone,
+35,James Moore,james.moore@example.com,Lab Access,2025-10-05,14:15:00,2025-10-05,15:00:00,S. Brown,Completed,57,Lab 3,
+36,Mason Taylor,mason.taylor@example.com,Room Booking,2025-11-03,08:15:00,2025-11-03,08:45:00,L. Carter,Completed,88,Lab 3,
+37,Amelia Martin,amelia.martin@example.com,Event Support,2025-11-23,08:00:00,2025-11-23,08:45:00,Daijahnah White,Scheduled,0,Office 204,Confirmed via email
+38,Noah Anderson,noah.anderson@example.com,Advising,2025-10-06,13:45:00,2025-10-06,14:45:00,S. Brown,Completed,57,Phone,
+39,Ethan White,ethan.white@example.com,Lab Access,2025-08-31,13:45:00,2025-08-31,15:00:00,Daijahnah White,Scheduled,0,Zoom,Confirmed via email
+40,Ethan Brown,ethan.brown@example.com,Advising,2025-10-23,13:30:00,2025-10-23,13:50:00,M. Johnson,Completed,60,Zoom,
+41,Jackson Davis,jackson.davis@example.com,Transcript Request,2025-10-23,10:45:00,2025-10-23,11:45:00,L. Carter,Scheduled,0,Main Desk,Confirmed via email
+42,Aria Jones,aria.jones@example.com,Event Support,2025-09-02,10:30:00,2025-09-02,11:15:00,T. Perez,Completed,72,Main Desk,
+43,Evelyn Miller,evelyn.miller@example.com,Registration Help,2025-10-05,16:00:00,2025-10-05,16:30:00,Daijahnah White,No-Show,0,Lab 3,"No response, follow-up needed"
+44,Evelyn Thomas,evelyn.thomas@example.com,Room Booking,2025-08-25,16:00:00,2025-08-25,16:30:00,K. Lee,Cancelled,0,Main Desk,Cancelled by client
+45,Olivia Johnson,olivia.johnson@example.com,Room Booking,2025-11-16,10:30:00,2025-11-16,11:30:00,L. Carter,Completed,61,Office 101,
+46,Olivia Davis,olivia.davis@example.com,Lab Access,2025-08-16,08:45:00,2025-08-16,10:15:00,T. Perez,No-Show,0,Phone,"No response, follow-up needed"
+47,Logan Jones,logan.jones@example.com,Room Booking,2025-09-20,14:00:00,2025-09-20,14:20:00,T. Perez,Completed,49,Office 101,
+48,Logan Davis,logan.davis@example.com,Registration Help,2025-11-02,10:45:00,2025-11-02,12:15:00,K. Lee,Pending,0,Phone,Awaiting client reply
+49,Olivia Johnson,olivia.johnson@example.com,Advising,2025-09-07,11:30:00,2025-09-07,11:50:00,Daijahnah White,Completed,39,Office 204,
+50,Sophia Moore,sophia.moore@example.com,Event Support,2025-11-26,11:15:00,2025-11-26,12:00:00,K. Lee,Completed,26,Office 204,
+51,Harper Johnson,harper.johnson@example.com,IT Setup,2025-11-15,09:45:00,2025-11-15,11:15:00,K. Lee,Scheduled,0,Zoom,Pending confirmation
+52,Isabella Martin,isabella.martin@example.com,Transcript Request,2025-10-07,10:45:00,2025-10-07,12:00:00,K. Lee,Completed,34,Lab 3,
+53,Aria Lee,aria.lee@example.com,IT Setup,2025-10-21,08:15:00,2025-10-21,09:30:00,T. Perez,Completed,9,Office 101,
+54,Mason Johnson,mason.johnson@example.com,Advising,2025-08-21,10:00:00,2025-08-21,10:20:00,L. Carter,Scheduled,0,Office 101,Confirmed via email
+55,Liam White,liam.white@example.com,Event Support,2025-10-12,10:15:00,2025-10-12,11:45:00,S. Brown,Completed,39,Phone,
+56,Sophia Johnson,sophia.johnson@example.com,Registration Help,2025-11-24,10:15:00,2025-11-24,11:00:00,T. Perez,Completed,22,Zoom,
+57,James Brown,james.brown@example.com,Lab Access,2025-09-13,08:45:00,2025-09-13,09:05:00,K. Lee,Completed,62,Zoom,
+58,Charlotte Davis,charlotte.davis@example.com,Advising,2025-10-01,10:45:00,2025-10-01,11:30:00,S. Brown,Pending,0,Zoom,Awaiting client reply
+59,Evelyn White,evelyn.white@example.com,Financial Aid Help,2025-08-31,12:15:00,2025-08-31,13:00:00,M. Johnson,Pending,0,Office 204,Awaiting client reply
+60,Lucas Davis,lucas.davis@example.com,Transcript Request,2025-09-20,15:00:00,2025-09-20,15:20:00,K. Lee,Scheduled,0,Office 204,Pending confirmation
+61,Logan Anderson,logan.anderson@example.com,Registration Help,2025-11-17,10:45:00,2025-11-17,11:05:00,Daijahnah White,Completed,86,Main Desk,
+62,James White,james.white@example.com,Registration Help,2025-09-15,14:00:00,2025-09-15,14:45:00,Daijahnah White,Completed,26,Phone,
+63,Mason Perez,mason.perez@example.com,Transcript Request,2025-11-28,13:15:00,2025-11-28,14:00:00,T. Perez,Scheduled,0,Office 101,Confirmed via email
+64,Ethan Thomas,ethan.thomas@example.com,Transcript Request,2025-09-07,09:45:00,2025-09-07,11:15:00,T. Perez,Completed,28,Main Desk,
+65,Aria Taylor,aria.taylor@example.com,Advising,2025-11-28,09:15:00,2025-11-28,09:35:00,L. Carter,No-Show,0,Phone,"No response, follow-up needed"
+66,Mia Williams,mia.williams@example.com,IT Setup,2025-08-23,13:45:00,2025-08-23,15:00:00,M. Johnson,Completed,27,Zoom,
+67,Olivia Thompson,olivia.thompson@example.com,IT Setup,2025-11-21,09:00:00,2025-11-21,10:15:00,M. Johnson,Completed,8,Office 101,
+68,James Miller,james.miller@example.com,Financial Aid Help,2025-10-10,11:00:00,2025-10-10,12:00:00,T. Perez,Scheduled,0,Lab 3,Pending confirmation
+69,Jackson Lee,jackson.lee@example.com,Transcript Request,2025-08-30,10:30:00,2025-08-30,11:30:00,Daijahnah White,Scheduled,0,Zoom,Pending confirmation
+70,Isabella Johnson,isabella.johnson@example.com,Advising,2025-09-15,14:30:00,2025-09-15,16:00:00,M. Johnson,Completed,59,Office 204,
+71,Isabella Garcia,isabella.garcia@example.com,Event Support,2025-10-16,13:15:00,2025-10-16,13:45:00,S. Brown,Completed,53,Lab 3,
+72,Evelyn Thompson,evelyn.thompson@example.com,Advising,2025-09-25,13:30:00,2025-09-25,15:00:00,Daijahnah White,Scheduled,0,Zoom,Confirmed via email
+73,Aria Johnson,aria.johnson@example.com,Financial Aid Help,2025-11-23,08:45:00,2025-11-23,10:00:00,S. Brown,Completed,6,Phone,
+74,Emma Moore,emma.moore@example.com,IT Setup,2025-11-25,11:15:00,2025-11-25,12:30:00,Daijahnah White,Completed,48,Office 101,
+75,Amelia Johnson,amelia.johnson@example.com,Financial Aid Help,2025-11-21,14:45:00,2025-11-21,15:45:00,T. Perez,Completed,31,Lab 3,
+76,Ethan Williams,ethan.williams@example.com,Financial Aid Help,2025-09-02,08:45:00,2025-09-02,09:30:00,S. Brown,Completed,56,Main Desk,
+77,James Jones,james.jones@example.com,Lab Access,2025-11-12,12:15:00,2025-11-12,13:30:00,T. Perez,Completed,10,Office 204,
+78,Evelyn Smith,evelyn.smith@example.com,IT Setup,2025-08-26,12:00:00,2025-08-26,12:30:00,L. Carter,No-Show,0,Office 101,"No response, follow-up needed"
+79,Evelyn Davis,evelyn.davis@example.com,Transcript Request,2025-09-17,13:45:00,2025-09-17,14:05:00,T. Perez,Scheduled,0,Lab 3,Confirmed via email
+80,Harper Johnson,harper.johnson@example.com,Event Support,2025-08-15,14:45:00,2025-08-15,16:00:00,T. Perez,Scheduled,0,Office 204,Pending confirmation
+81,Amelia Taylor,amelia.taylor@example.com,Lab Access,2025-10-20,10:00:00,2025-10-20,11:30:00,T. Perez,Completed,79,Zoom,
+82,Mason Hernandez,mason.hernandez@example.com,Financial Aid Help,2025-11-14,12:30:00,2025-11-14,12:50:00,M. Johnson,Completed,63,Zoom,
+83,Isabella Thomas,isabella.thomas@example.com,Room Booking,2025-10-22,12:30:00,2025-10-22,13:30:00,L. Carter,Completed,24,Phone,
+84,Lucas Smith,lucas.smith@example.com,Registration Help,2025-08-24,13:00:00,2025-08-24,14:00:00,M. Johnson,Completed,11,Office 204,
+85,Charlotte Martinez,charlotte.martinez@example.com,Advising,2025-09-02,08:45:00,2025-09-02,10:00:00,Daijahnah White,Scheduled,0,Phone,Pending confirmation
+86,Amelia Anderson,amelia.anderson@example.com,Room Booking,2025-08-30,15:45:00,2025-08-30,16:15:00,S. Brown,Completed,33,Phone,
+87,Olivia Hernandez,olivia.hernandez@example.com,Lab Access,2025-11-13,11:45:00,2025-11-13,12:45:00,M. Johnson,Completed,34,Zoom,
+88,Evelyn Smith,evelyn.smith@example.com,Lab Access,2025-09-16,10:30:00,2025-09-16,11:45:00,M. Johnson,Scheduled,0,Main Desk,Confirmed via email
+89,Lucas Clark,lucas.clark@example.com,Financial Aid Help,2025-10-18,08:45:00,2025-10-18,09:15:00,L. Carter,Completed,30,Zoom,
+90,Mia Perez,mia.perez@example.com,Transcript Request,2025-08-27,09:00:00,2025-08-27,09:45:00,L. Carter,Scheduled,0,Main Desk,Pending confirmation
+91,Harper Taylor,harper.taylor@example.com,IT Setup,2025-11-09,08:15:00,2025-11-09,09:30:00,T. Perez,No-Show,0,Main Desk,"No response, follow-up needed"
+92,Harper Garcia,harper.garcia@example.com,Transcript Request,2025-11-12,09:30:00,2025-11-12,09:50:00,K. Lee,Completed,59,Phone,
+93,Ava Taylor,ava.taylor@example.com,Transcript Request,2025-10-28,15:45:00,2025-10-28,16:05:00,T. Perez,Pending,0,Main Desk,Awaiting client reply
+94,Charlotte Clark,charlotte.clark@example.com,Financial Aid Help,2025-09-19,12:00:00,2025-09-19,12:45:00,K. Lee,Cancelled,0,Main Desk,Scheduling conflict
+95,Mason Perez,mason.perez@example.com,Event Support,2025-09-19,09:00:00,2025-09-19,10:30:00,L. Carter,Scheduled,0,Office 204,Confirmed via email
+96,Mia Perez,mia.perez@example.com,Financial Aid Help,2025-08-26,08:30:00,2025-08-26,09:45:00,Daijahnah White,Pending,0,Office 204,Awaiting client reply
+97,Mia Davis,mia.davis@example.com,Lab Access,2025-11-21,16:15:00,2025-11-21,16:35:00,T. Perez,Scheduled,0,Zoom,Confirmed via email
+98,Ethan Lee,ethan.lee@example.com,Registration Help,2025-11-06,16:15:00,2025-11-06,17:30:00,K. Lee,No-Show,0,Main Desk,"No response, follow-up needed"
+99,Charlotte Miller,charlotte.miller@example.com,Room Booking,2025-10-02,11:45:00,2025-10-02,13:00:00,K. Lee,No-Show,0,Main Desk,"No response, follow-up needed"
+100,Ethan Jones,ethan.jones@example.com,Advising,2025-10-29,16:30:00,2025-10-29,17:30:00,Daijahnah White,Cancelled,0,Main Desk,Cancelled by client
+101,Sophia Perez,sophia.perez@example.com,Event Support,2025-10-05,10:15:00,2025-10-05,11:30:00,Daijahnah White,Completed,13,Phone,
+102,Ethan Williams,ethan.williams@example.com,Event Support,2025-09-08,11:30:00,2025-09-08,12:45:00,T. Perez,Pending,0,Main Desk,Awaiting client reply
+103,Jackson Thompson,jackson.thompson@example.com,Financial Aid Help,2025-09-06,16:30:00,2025-09-06,17:45:00,K. Lee,Cancelled,0,Phone,Scheduling conflict
+104,Aria Martin,aria.martin@example.com,IT Setup,2025-10-11,14:15:00,2025-10-11,14:45:00,L. Carter,Completed,88,Main Desk,
+105,Logan Martinez,logan.martinez@example.com,Lab Access,2025-11-15,09:30:00,2025-11-15,10:30:00,L. Carter,Scheduled,0,Office 101,Pending confirmation
+106,Ethan Martinez,ethan.martinez@example.com,Event Support,2025-10-11,08:00:00,2025-10-11,09:30:00,Daijahnah White,Completed,14,Lab 3,
+107,Mia Davis,mia.davis@example.com,Transcript Request,2025-09-23,16:15:00,2025-09-23,17:00:00,M. Johnson,Scheduled,0,Office 101,Confirmed via email
+108,Emma Jones,emma.jones@example.com,Lab Access,2025-08-19,12:15:00,2025-08-19,13:00:00,K. Lee,Scheduled,0,Lab 3,Confirmed via email
+109,Mason Brown,mason.brown@example.com,Room Booking,2025-10-18,13:45:00,2025-10-18,14:05:00,K. Lee,Cancelled,0,Office 101,Scheduling conflict
+110,Evelyn Johnson,evelyn.johnson@example.com,Lab Access,2025-11-11,11:45:00,2025-11-11,13:15:00,K. Lee,Scheduled,0,Main Desk,Confirmed via email
+111,Charlotte Hernandez,charlotte.hernandez@example.com,Event Support,2025-09-02,13:30:00,2025-09-02,14:15:00,Daijahnah White,Completed,20,Office 101,
+112,Mia Hernandez,mia.hernandez@example.com,Room Booking,2025-09-22,10:00:00,2025-09-22,11:15:00,S. Brown,Completed,59,Lab 3,
+113,Aria Clark,aria.clark@example.com,Lab Access,2025-09-03,15:00:00,2025-09-03,15:20:00,K. Lee,Pending,0,Office 204,Awaiting client reply
+114,Isabella Moore,isabella.moore@example.com,Event Support,2025-08-17,16:30:00,2025-08-17,17:30:00,Daijahnah White,Completed,57,Main Desk,
+115,Lucas Hernandez,lucas.hernandez@example.com,IT Setup,2025-09-16,13:00:00,2025-09-16,14:30:00,K. Lee,Pending,0,Office 204,Awaiting client reply
+116,James Thompson,james.thompson@example.com,Advising,2025-09-28,12:45:00,2025-09-28,14:15:00,K. Lee,Cancelled,0,Phone,Cancelled by client
+117,Noah Moore,noah.moore@example.com,IT Setup,2025-11-23,11:30:00,2025-11-23,12:15:00,K. Lee,Cancelled,0,Office 204,Cancelled by client
+118,Isabella Hernandez,isabella.hernandez@example.com,Financial Aid Help,2025-09-01,16:00:00,2025-09-01,17:30:00,T. Perez,Completed,2,Main Desk,
+119,Lucas Anderson,lucas.anderson@example.com,Room Booking,2025-10-07,13:30:00,2025-10-07,13:50:00,M. Johnson,No-Show,0,Main Desk,"No response, follow-up needed"
+120,Isabella Brown,isabella.brown@example.com,Event Support,2025-10-27,15:15:00,2025-10-27,16:15:00,Daijahnah White,Completed,9,Lab 3,

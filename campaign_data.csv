@@ -1,0 +1,87 @@
+PostID,Date,Platform,ContentType,Impressions,Reach,Likes,Comments,Shares,Clicks,FollowersGain,Caption,Engagement,EngagementRate
+1,2025-09-01,Facebook,Static Post,1189,713,40,1,0,8,8,Sample caption for Facebook Static Post,41,0.034
+2,2025-09-01,TikTok,Static Post,1632,1361,155,13,3,31,5,Sample caption for TikTok Static Post,171,0.105
+3,2025-09-01,TikTok,Story,684,544,23,0,1,21,8,Sample caption for TikTok Story,24,0.035
+4,2025-09-02,Facebook,Story,905,762,82,7,1,4,2,Sample caption for Facebook Story,90,0.099
+5,2025-09-02,Instagram,Static Post,1160,912,84,3,3,31,8,Sample caption for Instagram Static Post,90,0.078
+6,2025-09-02,TikTok,Static Post,1944,1189,102,7,2,24,2,Sample caption for TikTok Static Post,111,0.057
+7,2025-09-02,TikTok,Story,1165,738,82,2,2,5,0,Sample caption for TikTok Story,86,0.074
+8,2025-09-03,Facebook,Story,290,266,15,1,0,7,0,Sample caption for Facebook Story,16,0.055
+9,2025-09-03,TikTok,Carousel,3195,2031,136,10,4,13,8,Sample caption for TikTok Carousel,150,0.047
+10,2025-09-04,TikTok,Static Post,2445,1505,64,5,0,54,8,Sample caption for TikTok Static Post,69,0.028
+11,2025-09-04,Instagram,Static Post,875,575,65,3,3,17,5,Sample caption for Instagram Static Post,71,0.081
+12,2025-09-05,TikTok,Carousel,2950,2413,235,11,5,87,5,Sample caption for TikTok Carousel,251,0.085
+13,2025-09-05,TikTok,Static Post,2048,1674,67,6,2,42,2,Sample caption for TikTok Static Post,75,0.037
+14,2025-09-06,TikTok,Story,1336,979,96,7,2,31,2,Sample caption for TikTok Story,105,0.079
+15,2025-09-06,Facebook,Carousel,955,869,54,5,2,4,8,Sample caption for Facebook Carousel,61,0.064
+16,2025-09-06,TikTok,Carousel,986,878,69,1,2,27,8,Sample caption for TikTok Carousel,72,0.073
+17,2025-09-07,TikTok,Reel/Video,2960,2558,250,23,11,23,8,Sample caption for TikTok Reel/Video,284,0.096
+18,2025-09-07,Instagram,Story,654,483,19,1,0,7,8,Sample caption for Instagram Story,20,0.031
+19,2025-09-07,Facebook,Static Post,1087,699,38,2,2,17,8,Sample caption for Facebook Static Post,42,0.039
+20,2025-09-08,Facebook,Reel/Video,1324,1171,65,5,2,23,0,Sample caption for Facebook Reel/Video,72,0.054
+21,2025-09-08,Instagram,Reel/Video,1066,774,33,3,1,25,8,Sample caption for Instagram Reel/Video,37,0.035
+22,2025-09-08,Facebook,Story,50,42,3,0,0,1,0,Sample caption for Facebook Story,3,0.06
+23,2025-09-09,TikTok,Reel/Video,2996,1957,87,8,2,13,5,Sample caption for TikTok Reel/Video,97,0.032
+24,2025-09-09,Facebook,Story,436,307,14,1,0,9,1,Sample caption for Facebook Story,15,0.034
+25,2025-09-09,Facebook,Story,474,384,31,1,1,9,1,Sample caption for Facebook Story,33,0.07
+26,2025-09-10,TikTok,Carousel,1734,1349,66,6,2,12,5,Sample caption for TikTok Carousel,74,0.043
+27,2025-09-10,Facebook,Story,819,551,53,1,1,18,0,Sample caption for Facebook Story,55,0.067
+28,2025-09-11,Facebook,Carousel,540,444,34,3,0,3,3,Sample caption for Facebook Carousel,37,0.069
+29,2025-09-11,TikTok,Reel/Video,4229,2782,255,13,11,87,5,Sample caption for TikTok Reel/Video,279,0.066
+30,2025-09-11,Instagram,Story,649,599,28,0,1,9,8,Sample caption for Instagram Story,29,0.045
+31,2025-09-11,Facebook,Static Post,789,696,43,2,0,12,8,Sample caption for Facebook Static Post,45,0.057
+32,2025-09-12,Facebook,Story,379,245,18,0,1,8,1,Sample caption for Facebook Story,19,0.05
+33,2025-09-12,TikTok,Story,889,574,59,2,3,14,0,Sample caption for TikTok Story,64,0.072
+34,2025-09-12,Facebook,Static Post,560,340,39,2,1,8,0,Sample caption for Facebook Static Post,42,0.075
+35,2025-09-13,Instagram,Reel/Video,2358,1427,119,6,5,22,1,Sample caption for Instagram Reel/Video,130,0.055
+36,2025-09-13,Facebook,Story,420,371,29,1,1,2,0,Sample caption for Facebook Story,31,0.074
+37,2025-09-13,Facebook,Carousel,1304,1201,36,3,1,46,5,Sample caption for Facebook Carousel,40,0.031
+38,2025-09-13,Instagram,Carousel,863,565,27,1,0,16,1,Sample caption for Instagram Carousel,28,0.032
+39,2025-09-14,Instagram,Carousel,1280,1106,102,9,2,31,8,Sample caption for Instagram Carousel,113,0.088
+40,2025-09-14,TikTok,Reel/Video,3452,2505,129,2,4,23,2,Sample caption for TikTok Reel/Video,135,0.039
+41,2025-09-15,TikTok,Reel/Video,3446,2885,138,7,3,94,3,Sample caption for TikTok Reel/Video,148,0.043
+42,2025-09-15,Facebook,Static Post,785,719,64,2,1,25,1,Sample caption for Facebook Static Post,67,0.085
+43,2025-09-15,TikTok,Carousel,2393,2049,157,12,6,43,8,Sample caption for TikTok Carousel,175,0.073
+44,2025-09-16,TikTok,Static Post,2804,2306,229,17,5,15,0,Sample caption for TikTok Static Post,251,0.09
+45,2025-09-16,TikTok,Reel/Video,3345,2812,228,7,7,48,1,Sample caption for TikTok Reel/Video,242,0.072
+46,2025-09-16,Facebook,Carousel,928,831,87,2,3,17,2,Sample caption for Facebook Carousel,92,0.099
+47,2025-09-17,TikTok,Reel/Video,3198,2734,133,5,6,53,3,Sample caption for TikTok Reel/Video,144,0.045
+48,2025-09-17,TikTok,Reel/Video,2362,1917,112,10,5,24,5,Sample caption for TikTok Reel/Video,127,0.054
+49,2025-09-17,Instagram,Reel/Video,1332,1037,123,3,1,37,3,Sample caption for Instagram Reel/Video,127,0.095
+50,2025-09-17,TikTok,Static Post,2280,1385,81,7,4,33,5,Sample caption for TikTok Static Post,92,0.04
+51,2025-09-18,Facebook,Carousel,1197,973,99,2,4,29,8,Sample caption for Facebook Carousel,105,0.088
+52,2025-09-18,Facebook,Carousel,1115,757,68,5,2,20,3,Sample caption for Facebook Carousel,75,0.067
+53,2025-09-18,Instagram,Reel/Video,1730,1423,169,10,6,13,3,Sample caption for Instagram Reel/Video,185,0.107
+54,2025-09-19,Facebook,Static Post,809,736,57,3,3,11,2,Sample caption for Facebook Static Post,63,0.078
+55,2025-09-19,Instagram,Static Post,972,749,79,5,1,16,3,Sample caption for Instagram Static Post,85,0.087
+56,2025-09-20,Instagram,Reel/Video,2019,1396,136,7,1,31,8,Sample caption for Instagram Reel/Video,144,0.071
+57,2025-09-20,Instagram,Reel/Video,1316,1014,49,1,0,22,8,Sample caption for Instagram Reel/Video,50,0.038
+58,2025-09-20,Instagram,Carousel,1423,1108,87,8,4,6,3,Sample caption for Instagram Carousel,99,0.07
+59,2025-09-20,TikTok,Reel/Video,3002,1888,142,10,4,33,8,Sample caption for TikTok Reel/Video,156,0.052
+60,2025-09-21,Instagram,Carousel,816,670,68,5,3,11,1,Sample caption for Instagram Carousel,76,0.093
+61,2025-09-21,TikTok,Carousel,2695,2236,69,5,2,64,1,Sample caption for TikTok Carousel,76,0.028
+62,2025-09-22,Facebook,Reel/Video,1141,867,34,0,1,16,2,Sample caption for Facebook Reel/Video,35,0.031
+63,2025-09-22,TikTok,Reel/Video,1977,1517,110,9,3,55,1,Sample caption for TikTok Reel/Video,122,0.062
+64,2025-09-22,TikTok,Story,50,41,1,0,0,1,0,Sample caption for TikTok Story,1,0.02
+65,2025-09-23,Instagram,Reel/Video,1488,1216,135,13,6,37,1,Sample caption for Instagram Reel/Video,154,0.103
+66,2025-09-23,TikTok,Reel/Video,2955,2807,229,16,7,101,0,Sample caption for TikTok Reel/Video,252,0.085
+67,2025-09-24,Instagram,Reel/Video,1465,1298,75,7,1,30,0,Sample caption for Instagram Reel/Video,83,0.057
+68,2025-09-24,Instagram,Reel/Video,1398,1216,50,4,0,15,8,Sample caption for Instagram Reel/Video,54,0.039
+69,2025-09-24,Facebook,Carousel,392,353,28,2,0,9,0,Sample caption for Facebook Carousel,30,0.077
+70,2025-09-24,Facebook,Story,541,387,42,1,2,13,2,Sample caption for Facebook Story,45,0.083
+71,2025-09-25,Instagram,Static Post,538,392,44,4,2,14,2,Sample caption for Instagram Static Post,50,0.093
+72,2025-09-25,TikTok,Carousel,1931,1217,61,2,1,31,8,Sample caption for TikTok Carousel,64,0.033
+73,2025-09-26,Facebook,Carousel,592,537,39,2,0,3,8,Sample caption for Facebook Carousel,41,0.069
+74,2025-09-26,TikTok,Story,1071,828,63,2,2,33,3,Sample caption for TikTok Story,67,0.063
+75,2025-09-27,Facebook,Story,561,513,42,0,0,3,3,Sample caption for Facebook Story,42,0.075
+76,2025-09-27,Instagram,Static Post,1020,926,54,3,3,18,8,Sample caption for Instagram Static Post,60,0.059
+77,2025-09-27,TikTok,Reel/Video,3444,2134,127,12,6,26,5,Sample caption for TikTok Reel/Video,145,0.042
+78,2025-09-28,Instagram,Reel/Video,1273,972,69,2,0,30,0,Sample caption for Instagram Reel/Video,71,0.056
+79,2025-09-28,Instagram,Carousel,1752,1073,56,5,0,6,0,Sample caption for Instagram Carousel,61,0.035
+80,2025-09-28,Instagram,Reel/Video,1421,1285,79,4,4,48,0,Sample caption for Instagram Reel/Video,87,0.061
+81,2025-09-28,Instagram,Static Post,846,778,68,1,2,27,1,Sample caption for Instagram Static Post,71,0.084
+82,2025-09-29,TikTok,Carousel,3328,2752,249,16,5,67,1,Sample caption for TikTok Carousel,270,0.081
+83,2025-09-29,TikTok,Reel/Video,2238,1351,70,2,2,19,2,Sample caption for TikTok Reel/Video,74,0.033
+84,2025-09-29,Instagram,Static Post,1091,963,59,2,2,15,3,Sample caption for Instagram Static Post,63,0.058
+85,2025-09-30,Facebook,Carousel,921,640,47,3,0,23,0,Sample caption for Facebook Carousel,50,0.054
+86,2025-09-30,Facebook,Story,162,142,5,0,0,5,0,Sample caption for Facebook Story,5,0.031
