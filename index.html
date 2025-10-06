@@ -221,6 +221,10 @@
 </section>
 
 
+
+
+
+
 <!-- projects section start -->
 <section class="projects" id="projects">
   <div class="max-width">
@@ -235,124 +239,210 @@
 
     <!-- Grid -->
     <div class="projects-grid">
+
       <!-- Design: Album Cover -->
       <article class="proj-card" data-cat="design">
         <div class="thumb">
-          <img src="placeholder-album.jpg" alt="Album cover thumbnail">
+          <img src="EjAfter6.jpg" alt="Album cover final image">
         </div>
         <h3>Album Cover — Bold Branding</h3>
         <p>Created a striking album cover to capture mood and brand identity — skills: layout, color grading, compositing.</p>
-        <div class="proj-meta">Tools: Photoshop • Illustrator</div>
-        <a class="proj-link" href="#" target="_blank">View Project</a>
+        <div class="proj-meta">Tools: Photoshop • Lightroom</div>
+        <a class="proj-link view-album" href="#">View Project</a>
       </article>
 
-      <!-- Design: Event Poster -->
-      <article class="proj-card" data-cat="design">
-        <div class="thumb">
-          <img src="placeholder-poster.jpg" alt="Event poster thumbnail">
-        </div>
-        <h3>Event Poster — Campaign Launch</h3>
-        <p>Designed announcement posters optimized for print & social, focused on hierarchy and legibility.</p>
-        <div class="proj-meta">Tools: InDesign • Canva</div>
-        <a class="proj-link" href="#" target="_blank">View Project</a>
-      </article>
 
-      <!-- Design: Logo Suite -->
-      <article class="proj-card" data-cat="design">
-        <div class="thumb">
-          <img src="placeholder-logo.jpg" alt="Logo thumbnail">
-        </div>
-        <h3>Branding & Logo</h3>
-        <p>Developed brand mark and usage guidelines to strengthen client's visual identity.</p>
-        <div class="proj-meta">Tools: Figma • Illustrator</div>
-        <a class="proj-link" href="#" target="_blank">View Project</a>
-      </article>
-
-      <!-- Design: Social Video -->
-      <article class="proj-card" data-cat="design">
-        <div class="thumb">
-          <!-- video placeholder -->
-          <video controls poster="placeholder-video.jpg" width="100%">
-            <source src="placeholder-video.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </div>
-        <h3>Social Video — Engagement Edit</h3>
-        <p>Short-form video edited for social to boost engagement and retention — skills: pacing, captions, format export.</p>
-        <div class="proj-meta">Tools: CapCut • Premiere Pro</div>
-        <a class="proj-link" href="#" target="_blank">View Project</a>
-      </article>
-
-    <!-- Professional: Admin Workflow (mockup) -->
-    <article class="proj-card" data-cat="professional">
+    <!-- Design: Social Video -->
+    <article class="proj-card" data-cat="design">
       <div class="thumb">
-        <a href="dashboard_workbook.xlsx" target="_blank">
-          <img src="dashboard_mockup.png" alt="Scheduling dashboard mockup">
-        </a>
+        <video controls poster="EJ2023Recap.jpg" width="100%">
+          <source src="Ej2023recap.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
       </div>
-      <h3>Scheduling & Workflow Dashboard</h3>
-      <p>Developed a scheduling dashboard in Excel with 120+ sample records to coordinate appointments, track statuses, and export calendar data. Demonstrates calendar management, process organization, and basic reporting skills.</p>
-      <div class="proj-meta">Skills: Microsoft Office • Calendar Management • Data Entry</div>
-      <a class="proj-link" href="dashboard_workbook.xlsx" target="_blank">Download Workbook</a>
-      <a class="proj-link" href="dashboard_sample.csv" target="_blank">Download Sample Data</a>
+      <h3>Social Video — 2023 Recap</h3>
+      <p>Edited year-in-review video to celebrate milestones and engage a loyal audience.</p>
+      <div class="proj-meta">Tools: CapCut</div>
+      <a class="proj-link view-video" href="#">View Project</a>
     </article>
 
-
-    <!-- Professional: Social Media Admin Case -->
-    <article class="proj-card" data-cat="professional">
-      <div class="thumb">
-        <a href="campaign_report.pdf" target="_blank" rel="noopener">
-          <img src="campaign_mockup.png" alt="Social media campaign report preview">
-        </a>
+    <!-- Hidden modal for Social Video -->
+    <div class="video-modal" id="videoModal">
+      <div class="video-modal-content">
+        <span class="video-close">&times;</span>
+        <h3>2023 Recap Video</h3>
+        <video controls width="100%">
+          <source src="Ej2023recap.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
       </div>
+    </div>
 
-      <h3>Campaign Management — Client Case</h3>
 
-      <p>Planned a month-long campaign and produced a concise analytics report showing impressions, engagement, top posts, and platform comparisons — demonstrates content planning, tracking, and reporting.</p>
+      <!-- Professional: Admin Workflow (mockup) -->
+      <article class="proj-card" data-cat="professional">
+        <div class="thumb">
+          <a href="dashboard_workbook.xlsx" target="_blank">
+            <img src="dashboard_mockup.png" alt="Scheduling dashboard mockup">
+          </a>
+        </div>
+        <h3>Scheduling & Workflow Dashboard</h3>
+        <p>Developed a scheduling dashboard in Excel with 120+ sample records to coordinate appointments, track statuses, and export calendar data. Demonstrates calendar management, process organization, and basic reporting skills.</p>
+        <div class="proj-meta">Skills: Microsoft Office • Calendar Management • Data Entry</div>
+        <a class="proj-link" href="dashboard_workbook.xlsx" target="_blank">Download Workbook</a>
+        <a class="proj-link" href="dashboard_sample.csv" target="_blank">Download Sample Data</a>
+      </article>
 
-      <div class="proj-meta">Skills: Social Media Management • Reporting • Basic Analytics</div>
+      <!-- Professional: Social Media Admin Case -->
+      <article class="proj-card" data-cat="professional">
+        <div class="thumb">
+          <a href="campaign_report.pdf" target="_blank" rel="noopener">
+            <img src="campaign_mockup.png" alt="Social media campaign report preview">
+          </a>
+        </div>
+        <h3>Campaign Management — Client Case</h3>
+        <p>Planned a month-long campaign and produced a concise analytics report showing impressions, engagement, top posts, and platform comparisons — demonstrates content planning, tracking, and reporting.</p>
+        <div class="proj-meta">Skills: Social Media Management • Reporting • Basic Analytics</div>
+        <div style="margin-top:8px; display:flex; gap:8px; flex-wrap:wrap;">
+          <a class="proj-link" href="campaign_report.pdf" target="_blank" rel="noopener">View Report (PDF)</a>
+          <a class="proj-link" href="campaign_mockup.png" target="_blank" rel="noopener">View Mockup (Image)</a>
+          <a class="proj-link" href="campaign_report.xlsx" target="_blank" rel="noopener">Download Workbook</a>
+          <a class="proj-link" href="campaign_data.csv" target="_blank" rel="noopener">Download Data (CSV)</a>
+        </div>
+      </article>
+    </div> <!-- end .projects-grid -->
 
-      <div style="margin-top:8px; display:flex; gap:8px; flex-wrap:wrap;">
-        <a class="proj-link" href="campaign_report.pdf" target="_blank" rel="noopener">View Report (PDF)</a>
-        <a class="proj-link" href="campaign_mockup.png" target="_blank" rel="noopener">View Mockup (Image)</a>
-        <a class="proj-link" href="campaign_report.xlsx" target="_blank" rel="noopener">Download Workbook</a>
-        <a class="proj-link" href="campaign_data.csv" target="_blank" rel="noopener">Download Data (CSV)</a>
+    <!-- Hidden modal for Album Cover -->
+    <div class="album-modal" id="albumModal">
+      <div class="album-modal-content">
+        <span class="album-close">&times;</span>
+        <h3>Album Cover — Before and After</h3>
+        <img src="EjBEfore6.JPG" alt="Before edit" class="album-img">
+        <img src="EjAfter6.jpg" alt="After edit" class="album-img">
       </div>
-    </article>
+    </div>
+
+    <!-- styles (add to your CSS file) -->
+    <style>
+      .projects { padding: 60px 0; }
+      .projects .title { text-align: left; margin-bottom: 18px; }
+      .proj-filters { margin-bottom: 20px; }
+      .filter-btn { margin-right: 8px; padding: 8px 14px; border: 1px solid #ddd; background: #fff; cursor: pointer; }
+      .filter-btn.active { background: #222; color:#fff; border-color:#222; }
+      .projects-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(260px,1fr)); gap: 18px; }
+      .proj-card { background:#fff; border:1px solid #eee; padding:12px; border-radius:6px; display:flex; flex-direction:column; }
+      .proj-card .thumb { height:160px; overflow:hidden; border-radius:4px; margin-bottom:8px; display:flex; align-items:center; justify-content:center; background:#fafafa; }
+      .proj-card img, .proj-card video { width:100%; height:100%; object-fit:cover; display:block; }
+      .proj-card h3 { margin:6px 0; font-size:1rem; }
+      .proj-card p { color:#444; font-size:0.92rem; margin:6px 0 8px; }
+      .proj-meta { font-size:0.82rem; color:#777; margin-bottom:8px; }
+      .proj-link { margin-top:auto; align-self:flex-start; text-decoration:none; padding:7px 10px; border-radius:4px; border:1px solid #222; color:#222; }
+      @media (max-width:560px){ .proj-card .thumb{height:120px} }
+
+      /* --- album modal --- */
+      .album-modal {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0,0,0,0.8);
+        z-index: 2000;
+        justify-content: center;
+        align-items: center;
+      }
+    .album-modal-content {
+      background: #fff;
+      padding: 20px;
+      border-radius: 6px;
+      max-width: 900px;        /* wider view */
+      max-height: 90vh;        /* keep within screen height */
+      overflow-y: auto;        /* scroll if content too tall */
+      width: 95%;
+      text-align: center;
+      position: relative;
+    }
+    .album-img {
+      width: 100%;
+      height: auto;
+      margin: 12px 0;
+      border-radius: 4px;
+      border: 2px solid #ddd;
+      object-fit: contain;     /* keeps full image visible */
+    }
+
+      .album-close {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        color: #333;
+        font-size: 28px;
+        cursor: pointer;
+        font-weight: bold;
+      }
+      .album-close:hover { color: skyblue; }
 
 
-<!-- styles (add to your CSS file) -->
-<style>
-.projects { padding: 60px 0; }
-.projects .title { text-align: left; margin-bottom: 18px; }
-.proj-filters { margin-bottom: 20px; }
-.filter-btn { margin-right: 8px; padding: 8px 14px; border: 1px solid #ddd; background: #fff; cursor: pointer; }
-.filter-btn.active { background: #222; color:#fff; border-color:#222; }
-.projects-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(260px,1fr)); gap: 18px; }
-.proj-card { background:#fff; border:1px solid #eee; padding:12px; border-radius:6px; display:flex; flex-direction:column; }
-.proj-card .thumb { height:160px; overflow:hidden; border-radius:4px; margin-bottom:8px; display:flex; align-items:center; justify-content:center; background:#fafafa; }
-.proj-card img, .proj-card video { width:100%; height:100%; object-fit:cover; display:block; }
-.proj-card h3 { margin:6px 0; font-size:1rem; }
-.proj-card p { color:#444; font-size:0.92rem; margin:6px 0 8px; }
-.proj-meta { font-size:0.82rem; color:#777; margin-bottom:8px; }
-.proj-link { margin-top:auto; align-self:flex-start; text-decoration:none; padding:7px 10px; border-radius:4px; border:1px solid #222; color:#222; }
-@media (max-width:560px){ .proj-card .thumb{height:120px} }
-</style>
+          /* --- video modal --- */
+    .video-modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.8);
+      z-index: 2000;
+      justify-content: center;
+      align-items: center;
+    }
+    .video-modal-content {
+      background: #fff;
+      padding: 20px;
+      border-radius: 6px;
+      max-width: 900px;
+      width: 95%;
+      overflow-y: auto;
+      max-height: 90vh; 
+      text-align: center;
+      position: relative;
+    }
+    .video-modal-content video {
+      width: 100%;
+      overflow-y: auto;
+      max-height: 90vh;
+      height: auto;
+      border-radius: 6px;
+    }
+    .video-close {
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      color: #333;
+      font-size: 28px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+    .video-close:hover { color: skyblue; }
 
-<!-- filtering script (add to bottom of page or your JS file) -->
-<script>
-document.querySelectorAll('.filter-btn').forEach(btn=>{
-  btn.addEventListener('click', ()=> {
-    document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
-    btn.classList.add('active');
-    const f = btn.dataset.filter;
-    document.querySelectorAll('.proj-card').forEach(card=>{
-      card.style.display = (f==='all' || card.dataset.cat===f) ? 'flex' : 'none';
-    });
-  });
-});
-</script>
+    </style>
+
+    <!-- filtering script (add to bottom of page or your JS file) -->
+    <script>
+      document.querySelectorAll('.filter-btn').forEach(btn=>{
+        btn.addEventListener('click', ()=>{
+          document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+          btn.classList.add('active');
+          const f = btn.dataset.filter;
+          document.querySelectorAll('.proj-card').forEach(card=>{
+            card.style.display = (f==='all' || card.dataset.cat===f) ? 'flex' : 'none';
+          });
+        });
+      });
+    </script>
+  </div>
 </section>
+
+
+
+
+
+
 
  <!-- contact section start -->
  <section class="contact" id="contact">
@@ -444,6 +534,55 @@ document.querySelectorAll('.filter-btn').forEach(btn=>{
     </script>
     <script defer src="/_vercel/insights/script.js"></script>
 
+  <script>
+  // Simple Album Modal
+  const albumBtn = document.querySelector('.view-album');
+  const albumModal = document.getElementById('albumModal');
+  const albumClose = albumModal.querySelector('.album-close');
+
+  if (albumBtn && albumModal) {
+    albumBtn.addEventListener('click', e => {
+      e.preventDefault();
+      albumModal.style.display = 'flex';
+    });
+
+    albumClose.addEventListener('click', () => {
+      albumModal.style.display = 'none';
+    });
+
+    albumModal.addEventListener('click', e => {
+      if (e.target === albumModal) albumModal.style.display = 'none';
+    });
+  }
+</script>
+
+<script>
+  // Simple Video Modal
+  const videoBtn = document.querySelector('.view-video');
+  const videoModal = document.getElementById('videoModal');
+  const videoClose = videoModal.querySelector('.video-close');
+
+  if (videoBtn && videoModal) {
+    videoBtn.addEventListener('click', e => {
+      e.preventDefault();
+      videoModal.style.display = 'flex';
+    });
+
+    videoClose.addEventListener('click', () => {
+      videoModal.style.display = 'none';
+      videoModal.querySelector('video').pause(); // stop playback when closed
+    });
+
+    videoModal.addEventListener('click', e => {
+      if (e.target === videoModal) {
+        videoModal.style.display = 'none';
+        videoModal.querySelector('video').pause();
+      }
+    });
+  }
+</script>
+
+
+
   </body>
 </html>
-
